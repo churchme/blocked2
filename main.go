@@ -6,6 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"io"
+	"io/ioutil"
 	"log"
 	"net"
 	"os"
